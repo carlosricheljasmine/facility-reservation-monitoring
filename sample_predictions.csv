@@ -1,0 +1,6 @@
+User_Category,Facility_Type,Lead_Time_Days,Participants,Time_Slot,Day_of_Week,Predicted_Outcome,Prediction_Confidence
+Student,Auditorium,5.0,50.0,Morning,Weekday,Not Completed,0.6512
+External,Auditorium,3.0,10.0,Morning,Weekday,Completed,0.5227
+Faculty,Auditorium,3.0,10.0,Afternoon,Weekday,Completed,0.5227
+Faculty,Conference Room,1.0,25.0,Evening,Weekday,Completed,0.5227
+Student,Auditorium,1.0,25.0,Morning,Weekday,Completed,0.5227
